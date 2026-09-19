@@ -4,7 +4,7 @@
 
 ![Гейзенберг](assets/wave_function-the_history_of_win_and_fail-part_1/1.jpg)
 ![Шрёдингер](assets/wave_function-the_history_of_win_and_fail-part_1/2.jpg)
-!["Эйнштейн"](assets/wave_function-the_history_of_win_and_fail-part_1/3.jpg)
+![Эйнштейн](assets/wave_function-the_history_of_win_and_fail-part_1/3.jpg)
 ![Джойс](assets/wave_function-the_history_of_win_and_fail-part_1/4.jpg)
 
 Когда только открыли квантовую механику сразу начался тупёж за континуальность, типо всё непрерывно и гладко должно быть, а оно скачет. Тупили бы и тупили, но нет, нашлись два чудака.
