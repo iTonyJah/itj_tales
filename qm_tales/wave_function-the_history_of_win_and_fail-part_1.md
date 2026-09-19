@@ -1,6 +1,6 @@
 ## Темы, которые путают (2):
 
-# Волновая функция. Эта история вина и фейла. Фейл победил.
+# Волновая функция. История вина и фейла. (Фейл победил.)
 
 ![Гейзенберг](assets/wave_function-the_history_of_win_and_fail-part_1/1.jpg)
 ![Шрёдингер](assets/wave_function-the_history_of_win_and_fail-part_1/2.jpg)
